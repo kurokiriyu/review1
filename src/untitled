@@ -1,0 +1,44 @@
+public class person { 
+public static void main(args[]){
+
+
+// 氏
+// 名
+
+// インスタンス
+// string型のfirstnameという変数
+String firstname = new String();
+
+// lastname　インスタンス変数を宣言する
+ "lastname"
+
+// firstnameを戻り値にする	
+get firstname
+
+// 代入する
+string x;
+set firstname = string x;
+
+// インスタンス変数の戻り値
+get lastname
+
+// set lastnameを定義する 
+set lastname = string x;
+
+// shownameというインスタンスnameを定義する
+// インスタンスネームに保持してあるfirstname
+// 氏：ラストネーム_名：ファーストネーム
+// ①		渡辺				高志
+// ②		和田				充史
+// ③		渡辺				高志
+
+// consoleに出力するメソッド
+lastname firstname   ();
+
+
+println.out();
+
+	}
+}
+
+
